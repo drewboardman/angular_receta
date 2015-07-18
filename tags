@@ -1,8 +1,0 @@
-!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-ActiveSupport	/Users/DBoardman/projects/angular_rails/receta/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c	language:Ruby
-Application	/Users/DBoardman/projects/angular_rails/receta/config/application.rb	/^  class Application < Rails::Application$/;"	c	language:Ruby	class:Receta
-ApplicationController	/Users/DBoardman/projects/angular_rails/receta/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c	language:Ruby
-ApplicationHelper	/Users/DBoardman/projects/angular_rails/receta/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m	language:Ruby
-HomeController	/Users/DBoardman/projects/angular_rails/receta/app/controllers/home_controller.rb	/^class HomeController < ApplicationController$/;"	c	language:Ruby
-index	/Users/DBoardman/projects/angular_rails/receta/app/controllers/home_controller.rb	/^  def index$/;"	f	language:Ruby	class:HomeController
-Receta	/Users/DBoardman/projects/angular_rails/receta/config/application.rb	/^module Receta$/;"	m	language:Ruby
