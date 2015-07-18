@@ -34,6 +34,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # We're using Bower on the front end to handle dependencies
 gem 'bower-rails'
 gem "foreman"
+gem 'sprockets', "2.11.0"
+gem "angular-rails-templates"
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.0'
