@@ -36,6 +36,7 @@ describe RecipesController do
       end
 
       it 'includes Baked Potato with Cheese' do
+        #use the & nomenclature
         found_recipes = results.map { |result| extract_name.call(result) }
         expect(found_recipes).to include('Baked Potato w/ Cheese')
       end
